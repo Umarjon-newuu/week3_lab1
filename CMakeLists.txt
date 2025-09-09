@@ -3,4 +3,5 @@ project(NewUU)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(NewUU Problem1.cpp)
+add_executable(NewUU Problem1.cpp
+        Problem2.cpp)
